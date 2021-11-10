@@ -1,0 +1,6 @@
+1. 遅延実行メソッド（以下4種類）を利用して実行順を確認
+    - setTimeout()
+    - setImmediate()
+    - process.nextTick()
+    - Promise.resolve().then()
+2. setTimeout() に 0msec 指定して実行順の変化を確認

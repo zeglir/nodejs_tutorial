@@ -1,0 +1,13 @@
+1. Car クラス を作成
+    メンバ
+      name
+    メソッド
+      drive()   - コンソールに "zoom zoom ..." を表示
+2. Car クラス を継承した Lamborghini クラス を作成
+    メソッド
+      echo()    - 親クラスの drive() を実行
+      drive()   - コンソールに "fire <親クラスのname> !!" を表示
+3. Lamborghini クラスのインスタンスを生成して
+   echo(), drive() を実行
+
+※上記を class を用いた方法、 function を用いた方法の2通りでやってみましょう。
