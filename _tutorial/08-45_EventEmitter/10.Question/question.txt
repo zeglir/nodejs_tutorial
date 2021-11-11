@@ -1,0 +1,6 @@
+1. 2秒ごとに "tick"イベント を発火する「Clock」クラスを作成
+    → clock.js を作成
+      - construcrot() intervalとtimerのメンバ変数を初期化
+      - start()       タイマーを開始
+      - stop()        タイマーを停止
+2. 実際に「Clock」クラスを使って2秒ごとにカウントアップしてみる
