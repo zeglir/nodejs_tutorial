@@ -1,0 +1,2 @@
+1. EventEmitterに複数のイベント("event")を設定し、
+   EventEmitter を実行(emit())した際の呼び出し順を確認する
