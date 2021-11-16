@@ -1,0 +1,7 @@
+前提
+  以下の2モジュールが準備されていること
+  - randomstring.js
+  - customreader.js
+
+課題
+  1. 受け取ったストリームをコンソールに書き出す CustomWritableStream を作成

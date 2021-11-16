@@ -1,0 +1,6 @@
+1. "C:\\sample\index.html" というパスから以下の文字列を取り出す
+  1) ディレクトリ名
+  2) ファイル名
+  3) 拡張子名
+2. "C:\\sample" と "index.html" をパスとして文字列結合
+3. "C:\\sample\lib\..\index.html" というパスを正規化
