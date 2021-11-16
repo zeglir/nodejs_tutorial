@@ -1,0 +1,14 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akinari Tsugo",
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.4.24"
+  }
+}
